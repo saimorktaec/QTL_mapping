@@ -1,5 +1,4 @@
 ## Phenotype = frm Dr. Meechai at seedling stage in 2010 both DH103 and DH212
-# plop
 library(qtl)
 library(data.table)
 library(GenomicRanges)
